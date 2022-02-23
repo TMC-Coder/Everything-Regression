@@ -3,7 +3,7 @@ This repository is focused on teaching, describing and illustrating the followin
 
 Hi GitHub!
 
- This is my first repo and I'm a traveling high school teacher who instructs learners and community members on various topics. For example, I spend a significant amount of time discussiong regression analysis.
+ This is my first repo and I'm a traveling high school teacher who instructs learners and community members on various topics. For example, I spend a significant amount of time discussing regression analysis.
 
  I visit numerous states in the U.S. and countries around the world where I frequently adapt my regression analysis to relate the anlaysis on issues that impact the local community (e.g., Arizona drop out rates in high school. Then present the findings to local community members, parents and students).
  I'm constantly having to subsititute variables names in my analysis and modifying my language (slightly) to acccurately describe the analysis to the respective community.
